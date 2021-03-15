@@ -47,3 +47,7 @@ footer {
   flex-grow: 1;*/
   flex: initial;
 }
+
+.newClass {
+  align-self: flex-end;
+}
